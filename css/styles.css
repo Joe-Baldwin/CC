@@ -1,0 +1,9 @@
+h1, h2{
+    font-family: 'Rokkitt', serif;
+}
+h1 {
+    font-size: 48px;
+}
+.navbar-dark {
+    background: #123660;
+}
