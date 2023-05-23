@@ -2,8 +2,19 @@ h1, h2{
     font-family: 'Rokkitt', serif;
 }
 h1 {
+    color: #123660;
     font-size: 48px;
+}
+h2 {
+    color: #123660;
 }
 .navbar-dark {
     background: #123660;
+    font-size: 18px;
+}
+.btn {
+    background: #123660;
+    color:whitesmoke;
+    margin: 35%;
+    margin-right:25% ;
 }
